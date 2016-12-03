@@ -1,0 +1,38 @@
+<images xmlns="http://www.gutenberg.ph/2006/schemas/imageinfo">
+<image path="images/book.png" filesize="364" filedate="2009-07-22 17:13:49" width="16px" height="16px">
+</image>
+<image path="images/card.png" filesize="249" filedate="2010-02-11 21:03:56" width="16px" height="11px">
+</image>
+<image path="images/external.png" filesize="172" filedate="2009-07-22 15:17:10" width="12px" height="12px">
+</image>
+<image path="images/new-cover-tn.jpg" filesize="16606" filedate="2016-12-03 12:46:56" width="213px" height="320px">
+</image>
+<image path="images/new-cover.jpg" filesize="63535" filedate="2016-12-03 12:46:29" width="480px" height="720px">
+</image>
+<image path="images/p000.jpg" filesize="61847" filedate="2009-05-21 11:41:38" width="720px" height="449px">
+</image>
+<image path="images/p018.jpg" filesize="58366" filedate="2009-05-21 11:47:30" width="720px" height="413px">
+</image>
+<image path="images/p034-1.jpg" filesize="12392" filedate="2009-05-21 11:52:31" width="720px" height="113px">
+</image>
+<image path="images/p034-2.jpg" filesize="20856" filedate="2009-05-21 11:57:03" width="720px" height="175px">
+</image>
+<image path="images/p050.jpg" filesize="72910" filedate="2009-05-21 12:01:41" width="720px" height="441px">
+</image>
+<image path="images/p070.jpg" filesize="57868" filedate="2009-05-21 12:49:36" width="608px" height="720px">
+</image>
+<image path="images/p096-1.jpg" filesize="36105" filedate="2009-05-21 15:54:14" width="622px" height="386px">
+</image>
+<image path="images/p096-2.jpg" filesize="39352" filedate="2009-05-21 15:59:06" width="636px" height="379px">
+</image>
+<image path="images/p116.jpg" filesize="74322" filedate="2009-05-21 16:04:06" width="720px" height="447px">
+</image>
+<image path="images/p140.jpg" filesize="68652" filedate="2009-05-21 16:17:08" width="720px" height="442px">
+</image>
+<image path="images/p148-1.jpg" filesize="29284" filedate="2009-05-21 17:26:32" width="650px" height="448px">
+</image>
+<image path="images/p148-2.jpg" filesize="52734" filedate="2009-05-21 17:28:32" width="652px" height="400px">
+</image>
+<image path="images/titlepage.png" filesize="15588" filedate="2012-10-14 04:20:10" width="491px" height="720px">
+</image>
+</images>
